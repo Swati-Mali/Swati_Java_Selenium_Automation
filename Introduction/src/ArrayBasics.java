@@ -10,7 +10,7 @@ public class ArrayBasics {
 		arr[1] = 2;
 		arr[2] = 5;
 		arr[3] = 10;
-		arr[4] = 15;
+		arr[4] = 10;
 		
 		System.out.println("value of index 4 in arr is " +arr[4]);
 		
